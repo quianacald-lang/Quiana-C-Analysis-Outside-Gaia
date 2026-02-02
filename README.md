@@ -1,4 +1,4 @@
-# QA Anlaysis: Gaia GPS, 
+# QA Analysis: Gaia GPS, 
 **Date:** 02/03/2026
 
 **Reporter:** Quiana Caldwell
@@ -9,7 +9,7 @@
 
 ---
 ## 📋 Executive Summary
-This repository contains a targeted Quality Assurance analysis of the Gaia GPS mobile application. The goal was to execute a ad-hoc test. Below I will report my findings
+This repository contains a targeted Quality Assurance analysis of the Gaia GPS mobile application. The goal was to execute an ad-hoc test. Below I will report my findings
 
 --- 
 ## 🛑 Critical Functional Bug
@@ -25,6 +25,6 @@ This repository contains a targeted Quality Assurance analysis of the Gaia GPS m
     4. Tap the **'Guide Me'** CTA.
 * **Actual Result:** Discover Modal is dismissed , The map resets to a default/generic view of the geographic area without trail indication.
 * **Expected Result:** The map should initiate the navigation sequence with the selected trail highlighted and the user's GPS position centered.
-* **Note:** I have preformed this test as a core/free user 
+* **Note:** I have performed this test as a core/free user 
 
 **Video Evidence:** [🎥 Click here to view the Bug Report on Loom](https://www.loom.com/share/8550d5dbbac84b628351a216edef8563) 
